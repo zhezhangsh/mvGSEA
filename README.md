@@ -1,5 +1,5 @@
 # mvGSEA
-Multiplevariate GSEA using logistic regression models
+Multivariate GSEA using logistic regression models
 
 ## TODOs 
 
